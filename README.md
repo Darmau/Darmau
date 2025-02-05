@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/darmaulee" target="blank"><img src="https://img.shields.io/twitter/follow/darmaulee?logo=twitter&style=for-the-badge" alt="darmaulee" /></a> </p>
 
-- 🔭 I’m currently working on **可可托海没有海3.0**
+- 📝 I regularly write articles on [https://darmau.co](https://darmau.co)
 
-- 📝 I regularly write articles on [https://darmau.design](https://darmau.design)
+- This is my [newsletter](https://quaily.com/firewood)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
